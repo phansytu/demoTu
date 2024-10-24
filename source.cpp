@@ -1,5 +1,4 @@
 #include "Student.cpp"
-#include "Teacher.cpp"
 #include "Person.cpp"
 using namespace std;
    int main() {
